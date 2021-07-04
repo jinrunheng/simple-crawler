@@ -1,0 +1,11 @@
+number,author,title
+47038,soroushj,spec: link "addressable" to its definition
+47029,Illirgway,mime: keep going parsing after trailing semicolon
+46988,qingyunha,cmd/link: make npkgsyms meaningful
+46971,HowJMay,cpu: add HasSHA512 feature bit in ARM64
+46970,HowJMay,crypto/sha512: implement sha512 with ARMv8.2 features
+46953,emcfarlane,cmd/go/internal/work: remove handler shared work state
+46923,neilalexander,net/http: guarantee that the Transport dial functions are respected in js/wasm
+46904,fengsheng666,net/http/httputil: add network optimize item when send small body
+46873,HowJMay,runtime: optimize multiple EOR with EOR3 on ARM64
+46862,Illirgway,strings: adding micro-optimization for TrimSpace
